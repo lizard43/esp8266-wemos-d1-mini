@@ -1,2 +1,8 @@
 # esp8266-wemos-d1-mini
-misc wemos d1 mini sketches
+
+Misc wemos d1 mini sketches
+
+
+![alt](esp8266-wemos-d1-mini-pinout.png)
+
+![alt](wemos-d1-mini-pins.png)
